@@ -1,4 +1,4 @@
-## Oi, Eu sou Lucas Gabriel
+## Oii, Eu sou Lucas Gabriel
 Estudante universitário em Gestão de TI a procura de estágio em desenvolvimento de software.
 <div align="center">
   <a href="https://github.com/Lucasgabrielferreira">
