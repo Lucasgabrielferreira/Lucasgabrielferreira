@@ -1,5 +1,5 @@
 ## Oii, Eu sou Lucas Gabriel
-Estudante universitário em Gestão de TI a procura de estágio em desenvolvimento de software.
+Estudante universitário em Gestão de TI a procura de trainee em desenvolvimento de software.
 <div align="center">
   <a href="https://github.com/Lucasgabrielferreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasgabrielferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
