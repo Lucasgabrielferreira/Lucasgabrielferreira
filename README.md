@@ -1,13 +1,13 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Lucas Gabriel </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucasgabrielferreira&color=yellow" alt="Profile views" /> </p>
 
- ## Estudante universitário em Gestão de Tecnologia da Informação a procura de trainee em desenvolvimento de software
+##  Graduado em Gestão de Tecnologia da Informação a procura de trainee em desenvolvimento de software
 
 - 🔥 Desenvolvedor junior 
 
 - 🌱 Atualmente estou aprendendo C# e .Net
 
-- ⚡ Tecnologias: .NET C#, SQL Server, Scrum, Oracle.
+- ⚡ Tecnologias: .NET C#, SQL, Scrum, Oracle.
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 
