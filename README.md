@@ -13,11 +13,11 @@
 
 <div align="center">
   <a href="https://github.com/Lucasgabrielferreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasgabrielferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasgabrielferreira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasgabrielferreira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=CE00CA&text_color=FFF)"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucasgabrielferreira&layout=compact&bg_color=000&border_color=30A3DC&title_color=CE00CA&text_color=FFF"/>
 
 ## Top linguagens
- <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucasgabrielferreira&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/><br>
+ <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucasgabrielferreira&bg_color=000&border_color=30A3DC&title_color=CE00CA&text_color=FFF"/><br>
 
 <img height="180em" src="https://streak-stats.demolab.com/?user=Lucasgabrielferreira&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats"/>
 </div>
