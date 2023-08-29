@@ -32,7 +32,7 @@
  
 <div> 
   <a href="https://web.dio.me/users/lg139826065?tab=skills" target="_blank"><img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logoColor=30A3DC "target="_blank"></a>
-  <a href="https://www.instagram.com/_lucas.biel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lucas.d_oficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/894387895291478048/894387895727710288" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lg139826065@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-gabriel-ferreira-3907611a1/(https://www.linkedin.com/in/lucas-gabriel-ferreira/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
