@@ -37,3 +37,9 @@
   <a href = "mailto:lg139826065@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-gabriel-ferreira-3907611a1/(https://www.linkedin.com/in/lucas-gabriel-ferreira/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+ ![Snake animation](https://github.com/Lucasgabrielferreira/Lucasgabrielferreira/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Lucasgabrielferreira&repo=Lucasgabrielferreira&theme=react)](https://github.com/Lucasgabrielferreira/Lucasgabrielferreira)
