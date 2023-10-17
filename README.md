@@ -5,9 +5,9 @@
 
 - 🔥 Desenvolvedor junior 
 
-- 🌱 Atualmente estou aprendendo C# e .Net
+- 🌱 Atualmente estou aprendendo C#,.Net e JavaScript.
 
-- ⚡ Tecnologias: .NET C#, SQL, Scrum, Oracle.
+- ⚡ Tecnologias: .NET C#, SQL, Scrum, HTML, CSS, JavaScript.
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -26,7 +26,7 @@
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ##
+ ##
  
  ##  Contatos
  
